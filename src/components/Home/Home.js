@@ -14,15 +14,24 @@ function Home() {
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "} From 203
+                We Are Always Stupid Room 203
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
                 </span>
               </h1>
 
               <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                WE ARE INCLUDE 5 MEMBERS:
+                <br />
+                <strong className="main-name">NGUYEN LUAN</strong>
+                <br />
+                <strong className="main-name">VAN NAM</strong>
+                <br />
+                <strong className="main-name">VY KHOI</strong>
+                <br />
+                <strong className="main-name">PHUC THINH</strong>
+                <br />
+                <strong className="main-name">BAO CHAN</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>

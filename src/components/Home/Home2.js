@@ -16,40 +16,27 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className="purple"> INTRODUCE </span> MYTEAM
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript and Go. </b>
-              </i>
+              <strong className="purple">Nguyen Luan:</strong>
+              <span> Quần què gì của tao cũng là của tụi bây vậy</span>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i>
+              <strong className="purple">Van Nam:</strong>
+              <span> Ông hoàng tuyên truyền cái lỏ, chỉ gì cũng lỏ</span>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              <strong className="purple">Vy Khoi:</strong>
+              <span> Như cái tên công việc "Lào gì cũng tôn"</span>
+              <br />
+              <br />
+              <strong className="purple">Phuc Thinh:</strong>
+              <span> Em ở quê mới lên!, em không biết gì hết</span>
+              <br />
+              <br />
+              <strong className="purple">Bao Chấn:</strong>
+              <span> Hoàng đế bù nhìn, chiến thần quan sát, “kiểu gì chả có đứa làm giùm”.</span>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -60,9 +47,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>FIND TEAM ON</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Feel free to <span className="purple">connect </span>with team Stupid Room 203
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
