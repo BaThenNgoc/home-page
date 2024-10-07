@@ -36,7 +36,7 @@ function Home2() {
               <br />
               <br />
               <strong className="purple">Bao Chấn:</strong>
-              <span> Hoàng đế bù nhìn, chiến thần quan sát, “kiểu gì chả có đứa làm giùm”.</span>
+              <span> Hoàng đế bù nhìn, chiến thần quan sát, “kiểu gì chả có đứa làm giùm”</span>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
