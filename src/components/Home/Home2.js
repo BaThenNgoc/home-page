@@ -35,7 +35,7 @@ function Home2() {
               <span> Em ở quê mới lên!, em không biết gì hết</span>
               <br />
               <br />
-              <strong className="purple">Bao Chấn:</strong>
+              <strong className="purple">Bao Chan:</strong>
               <span> Hoàng đế bù nhìn, chiến thần quan sát, “kiểu gì chả có đứa làm giùm”</span>
             </p>
           </Col>
