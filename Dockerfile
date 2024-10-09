@@ -11,7 +11,7 @@ COPY ./home/package*.json ./
 RUN npm install
 
 # Sao chép toàn bộ mã nguồn vào container
-COPY ./home ./
+COPY ./home-page ./
 
 # Mở cổng mà ứng dụng sẽ chạy
 EXPOSE 3000
