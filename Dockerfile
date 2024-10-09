@@ -5,13 +5,13 @@ FROM node:20.18.0
 WORKDIR /app
 
 # Sao chép package.json và package-lock.json vào container
-COPY ./home/package*.json ./
+COPY ./package*.json ./
 
 # Cài đặt các gói cần thiết
 RUN npm install
 
 # Sao chép toàn bộ mã nguồn vào container
-COPY ./home-page ./
+COPY ./ ./
 
 # Mở cổng mà ứng dụng sẽ chạy
 EXPOSE 3000
