@@ -17,7 +17,7 @@ function AboutCard() {
             Mesra.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do! haha
           </p>
           <ul>
             <li className="about-activity">
